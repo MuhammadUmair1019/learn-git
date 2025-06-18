@@ -4,4 +4,9 @@ const menus = [
     page: "DashboardMain",
     route: "/start",
   },
+  {
+    name: "contact",
+    page: "contactPage",
+    route: "/contact",
+  },
 ];
